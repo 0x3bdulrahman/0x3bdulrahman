@@ -26,7 +26,11 @@
   <br>
 
 ## <picture> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=70> </picture> Competitive Programming Profiles
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/0x3bdulrahman/0x3bdulrahman/output/snake.svg" alt="Snake animation" />
+
+  <br>
 <p align="center">
   <a href="https://codeforces.com/profile/Abdulrahman"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/AbdulrahmanHussain/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
