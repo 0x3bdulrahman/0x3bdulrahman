@@ -26,10 +26,6 @@
   <br>
 
 ## <picture> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=70> </picture> Competitive Programming Profiles
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/0x3bdulrahman/0x3bdulrahman/output/snake.svg" alt="Snake animation" />
-
   <br>
 <p align="center">
   <a href="https://codeforces.com/profile/Abdulrahman"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -71,20 +67,28 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   
 </p>
-
+<!--
 ## <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x3bdulrahman&theme=tokyonight_duo" alt="0x3bdulrahman" />
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="0x3bdulrahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x3bdulrahman&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x3bdulrahman&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="0x3bdulrahman" height="230px"/>
-   
+   -->
+   <br>
+   <br>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/0x3bdulrahman/0x3bdulrahman/output/snake.svg" alt="Snake animation" />
+
+ <!-- <br>
+   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 <br/>
-
+-->
 </p>
 
 ## <picture> <img src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 50px></picture> How to reach me
